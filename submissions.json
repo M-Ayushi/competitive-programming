@@ -1814,6 +1814,22 @@
     ],
     "timestamp": "Sep/01/2022 17:34"
   },
+  "CF17177892": {
+    "contest_id": 656,
+    "language": "Java 8",
+    "path": "codeforces\\656\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Da Vinci Powers",
+    "problem_url": "https://codeforces.com/contest/656/problem/A",
+    "submission_id": "CF17177892",
+    "submission_url": "https://codeforces.com/contest/656/submission/17177892",
+    "tags": [
+      "*special problem",
+      "*1900"
+    ],
+    "timestamp": "Apr/05/2016 21:48"
+  },
   "CF174379500": {
     "contest_id": 1735,
     "language": "C++20 (GCC 11-64)",
