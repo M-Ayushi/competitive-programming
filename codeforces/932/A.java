@@ -1,21 +1,21 @@
 import java.util.Scanner;
 
 /**
- * Created by alok.mahajan on 26/03/2018.
+ * Created by Ayushi on 2/15/2018.
  */
-public class PalindromicSupersequence_932A {
+public class p1 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-        String a = scan.nextLine();
-        scan.close();
+        String input = scan.nextLine();
+        String reverse = new StringBuffer(input).reverse().toString();
+        String ans;
 
-        String b = new StringBuilder(a).reverse().toString();
-
-        String c = a + b;
-        if (a.equals(b)) {
-            c = a;
+        if(input.equals(reverse)) {
+            ans = input;
         }
-
-        System.out.println(c);
+        else {
+            ans = input + reverse;
+        }
+        System.out.println(ans);
     }
 }
