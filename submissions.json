@@ -6284,6 +6284,22 @@
     ],
     "timestamp": "Jul/07/2024 16:32"
   },
+  "CF36652385": {
+    "contest_id": 932,
+    "language": "Java 8",
+    "path": "codeforces\\932\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Palindromic Supersequence",
+    "problem_url": "https://codeforces.com/contest/932/problem/A",
+    "submission_id": "CF36652385",
+    "submission_url": "https://codeforces.com/contest/932/submission/36652385",
+    "tags": [
+      "constructive algorithms",
+      "*800"
+    ],
+    "timestamp": "Mar/26/2018 20:43"
+  },
   "CF36652604": {
     "contest_id": 677,
     "language": "Java 8",
