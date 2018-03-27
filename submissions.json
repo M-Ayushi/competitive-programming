@@ -6284,6 +6284,22 @@
     ],
     "timestamp": "Jul/07/2024 16:32"
   },
+  "CF36676757": {
+    "contest_id": 133,
+    "language": "Java 8",
+    "path": "codeforces\\133\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "HQ9+",
+    "problem_url": "https://codeforces.com/contest/133/problem/A",
+    "submission_id": "CF36676757",
+    "submission_url": "https://codeforces.com/contest/133/submission/36676757",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Mar/27/2018 19:32"
+  },
   "CF36677286": {
     "contest_id": 263,
     "language": "Java 8",
