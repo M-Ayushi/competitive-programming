@@ -6284,6 +6284,24 @@
     ],
     "timestamp": "Jul/07/2024 16:32"
   },
+  "CF36674562": {
+    "contest_id": 148,
+    "language": "Java 8",
+    "path": "codeforces\\148\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Insomnia cure",
+    "problem_url": "https://codeforces.com/contest/148/problem/A",
+    "submission_id": "CF36674562",
+    "submission_url": "https://codeforces.com/contest/148/submission/36674562",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Mar/27/2018 17:55"
+  },
   "CF36675180": {
     "contest_id": 282,
     "language": "Java 8",
