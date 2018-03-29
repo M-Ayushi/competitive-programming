@@ -6284,6 +6284,23 @@
     ],
     "timestamp": "Jul/07/2024 16:32"
   },
+  "CF36723745": {
+    "contest_id": 486,
+    "language": "Java 8",
+    "path": "codeforces\\486\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Calculating Function",
+    "problem_url": "https://codeforces.com/contest/486/problem/A",
+    "submission_id": "CF36723745",
+    "submission_url": "https://codeforces.com/contest/486/submission/36723745",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Mar/29/2018 15:37"
+  },
   "CF36734494": {
     "contest_id": 469,
     "language": "Java 8",
