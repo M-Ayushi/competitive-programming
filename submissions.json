@@ -6284,6 +6284,22 @@
     ],
     "timestamp": "Jul/07/2024 16:32"
   },
+  "CF36808561": {
+    "contest_id": 952,
+    "language": "Java 8",
+    "path": "codeforces\\952\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Ravioli Sort",
+    "problem_url": "https://codeforces.com/contest/952/problem/C",
+    "submission_id": "CF36808561",
+    "submission_url": "https://codeforces.com/contest/952/submission/36808561",
+    "tags": [
+      "implementation",
+      "*1600"
+    ],
+    "timestamp": "Apr/01/2018 16:48"
+  },
   "CF36823637": {
     "contest_id": 952,
     "language": "Java 8",
