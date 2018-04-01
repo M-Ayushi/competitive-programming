@@ -6284,6 +6284,23 @@
     ],
     "timestamp": "Jul/07/2024 16:32"
   },
+  "CF36823637": {
+    "contest_id": 952,
+    "language": "Java 8",
+    "path": "codeforces\\952\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "A Map of the Cat",
+    "problem_url": "https://codeforces.com/contest/952/problem/B",
+    "submission_id": "CF36823637",
+    "submission_url": "https://codeforces.com/contest/952/submission/36823637",
+    "tags": [
+      "brute force",
+      "interactive",
+      "*1900"
+    ],
+    "timestamp": "Apr/01/2018 17:12"
+  },
   "CF37948988": {
     "contest_id": 977,
     "language": "Java 8",
