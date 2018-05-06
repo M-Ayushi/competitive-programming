@@ -6284,6 +6284,22 @@
     ],
     "timestamp": "Jul/07/2024 16:32"
   },
+  "CF37948988": {
+    "contest_id": 977,
+    "language": "Java 8",
+    "path": "codeforces\\977\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Wrong Subtraction",
+    "problem_url": "https://codeforces.com/contest/977/problem/A",
+    "submission_id": "CF37948988",
+    "submission_url": "https://codeforces.com/contest/977/submission/37948988",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/06/2018 15:45"
+  },
   "CF38031217": {
     "contest_id": 980,
     "language": "Java 8",
