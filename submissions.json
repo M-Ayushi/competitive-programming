@@ -6284,6 +6284,25 @@
     ],
     "timestamp": "Jul/07/2024 16:32"
   },
+  "CF38052984": {
+    "contest_id": 732,
+    "language": "Java 8",
+    "path": "codeforces\\732\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Buy a Shovel",
+    "problem_url": "https://codeforces.com/contest/732/problem/A",
+    "submission_id": "CF38052984",
+    "submission_url": "https://codeforces.com/contest/732/submission/38052984",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "May/08/2018 20:13"
+  },
   "CF38832822": {
     "contest_id": 987,
     "language": "Java 8",
