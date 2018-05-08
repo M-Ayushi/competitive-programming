@@ -6284,6 +6284,23 @@
     ],
     "timestamp": "Jul/07/2024 16:32"
   },
+  "CF38031217": {
+    "contest_id": 980,
+    "language": "Java 8",
+    "path": "codeforces\\980\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Links and Pearls",
+    "problem_url": "https://codeforces.com/contest/980/problem/A",
+    "submission_id": "CF38031217",
+    "submission_url": "https://codeforces.com/contest/980/submission/38031217",
+    "tags": [
+      "implementation",
+      "math",
+      "*900"
+    ],
+    "timestamp": "May/08/2018 16:27"
+  },
   "CF38043708": {
     "contest_id": 520,
     "language": "Java 8",
