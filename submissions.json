@@ -6284,6 +6284,23 @@
     ],
     "timestamp": "Jul/07/2024 16:32"
   },
+  "CF39019354": {
+    "contest_id": 758,
+    "language": "Java 8",
+    "path": "codeforces\\758\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Holiday Of Equality",
+    "problem_url": "https://codeforces.com/contest/758/problem/A",
+    "submission_id": "CF39019354",
+    "submission_url": "https://codeforces.com/contest/758/submission/39019354",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jun/07/2018 13:03"
+  },
   "CF39161710": {
     "contest_id": 952,
     "language": "Java 8",
