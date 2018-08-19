@@ -6284,6 +6284,23 @@
     ],
     "timestamp": "Jul/07/2024 16:32"
   },
+  "CF41836049": {
+    "contest_id": 1025,
+    "language": "Java 8",
+    "path": "codeforces\\1025\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Doggo Recoloring",
+    "problem_url": "https://codeforces.com/contest/1025/problem/A",
+    "submission_id": "CF41836049",
+    "submission_url": "https://codeforces.com/contest/1025/submission/41836049",
+    "tags": [
+      "implementation",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "Aug/19/2018 14:48"
+  },
   "CF42436619": {
     "contest_id": 27,
     "language": "Java 8",
