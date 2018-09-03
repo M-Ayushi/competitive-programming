@@ -6284,6 +6284,23 @@
     ],
     "timestamp": "Jul/07/2024 16:32"
   },
+  "CF42436619": {
+    "contest_id": 27,
+    "language": "Java 8",
+    "path": "codeforces\\27\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Next Test",
+    "problem_url": "https://codeforces.com/contest/27/problem/A",
+    "submission_id": "CF42436619",
+    "submission_url": "https://codeforces.com/contest/27/submission/42436619",
+    "tags": [
+      "implementation",
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "Sep/03/2018 18:45"
+  },
   "CF42927372": {
     "contest_id": 1041,
     "language": "Java 8",
