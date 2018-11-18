@@ -6284,6 +6284,21 @@
     ],
     "timestamp": "Jul/07/2024 16:32"
   },
+  "CF45933146": {
+    "contest_id": 1079,
+    "language": "Java 8",
+    "path": "codeforces\\1079\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Kitchen Utensils",
+    "problem_url": "https://codeforces.com/contest/1079/problem/A",
+    "submission_id": "CF45933146",
+    "submission_url": "https://codeforces.com/contest/1079/submission/45933146",
+    "tags": [
+      "*900"
+    ],
+    "timestamp": "Nov/18/2018 17:16"
+  },
   "CF45977091": {
     "contest_id": 59,
     "language": "Java 8",
