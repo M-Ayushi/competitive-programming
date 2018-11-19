@@ -6284,6 +6284,22 @@
     ],
     "timestamp": "Jul/07/2024 16:32"
   },
+  "CF45978022": {
+    "contest_id": 1030,
+    "language": "Java 8",
+    "path": "codeforces\\1030\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "In Search of an Easy Problem",
+    "problem_url": "https://codeforces.com/contest/1030/problem/A",
+    "submission_id": "CF45978022",
+    "submission_url": "https://codeforces.com/contest/1030/submission/45978022",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Nov/19/2018 20:02"
+  },
   "CF45978170": {
     "contest_id": 791,
     "language": "Java 8",
