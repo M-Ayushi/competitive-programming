@@ -4873,6 +4873,23 @@
     ],
     "timestamp": "Jul/07/2024 16:32"
   },
+  "CF50763724": {
+    "contest_id": 112,
+    "language": "Java 8",
+    "path": "codeforces\\112\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Petya and Strings",
+    "problem_url": "https://codeforces.com/contest/112/problem/A",
+    "submission_id": "CF50763724",
+    "submission_url": "https://codeforces.com/contest/112/submission/50763724",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Mar/03/2019 21:28"
+  },
   "CF50798535": {
     "contest_id": 705,
     "language": "Python 3",
