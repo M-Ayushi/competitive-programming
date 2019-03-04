@@ -4873,6 +4873,22 @@
     ],
     "timestamp": "Jul/07/2024 16:32"
   },
+  "CF50798535": {
+    "contest_id": 705,
+    "language": "Python 3",
+    "path": "codeforces\\705\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Hulk",
+    "problem_url": "https://codeforces.com/contest/705/problem/A",
+    "submission_id": "CF50798535",
+    "submission_url": "https://codeforces.com/contest/705/submission/50798535",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Mar/04/2019 20:31"
+  },
   "CF51173896": {
     "contest_id": 1136,
     "language": "Java 8",
