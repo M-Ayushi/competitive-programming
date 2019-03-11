@@ -4873,6 +4873,22 @@
     ],
     "timestamp": "Jul/07/2024 16:32"
   },
+  "CF51173896": {
+    "contest_id": 1136,
+    "language": "Java 8",
+    "path": "codeforces\\1136\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Nastya Is Reading a Book",
+    "problem_url": "https://codeforces.com/contest/1136/problem/A",
+    "submission_id": "CF51173896",
+    "submission_url": "https://codeforces.com/contest/1136/submission/51173896",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Mar/11/2019 16:42"
+  },
   "CF51628981": {
     "contest_id": 1139,
     "language": "Java 8",
