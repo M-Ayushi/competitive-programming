@@ -4873,6 +4873,21 @@
     ],
     "timestamp": "Jul/07/2024 16:32"
   },
+  "CF52209234": {
+    "contest_id": 1145,
+    "language": "Java 8",
+    "path": "codeforces\\1145\\D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Pigeon d'Or",
+    "problem_url": "https://codeforces.com/contest/1145/problem/D",
+    "submission_id": "CF52209234",
+    "submission_url": "https://codeforces.com/contest/1145/submission/52209234",
+    "tags": [
+      "implementation"
+    ],
+    "timestamp": "Apr/01/2019 19:46"
+  },
   "CF53326991": {
     "contest_id": 1157,
     "language": "Java 8",
