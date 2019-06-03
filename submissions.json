@@ -4873,6 +4873,24 @@
     ],
     "timestamp": "Jul/07/2024 16:32"
   },
+  "CF55026867": {
+    "contest_id": 1174,
+    "language": "Java 8",
+    "path": "codeforces\\1174\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Ehab Fails to Be Thanos",
+    "problem_url": "https://codeforces.com/contest/1174/problem/A",
+    "submission_id": "CF55026867",
+    "submission_url": "https://codeforces.com/contest/1174/submission/55026867",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "sortings",
+      "*1000"
+    ],
+    "timestamp": "Jun/03/2019 15:21"
+  },
   "CF55202997": {
     "contest_id": 1157,
     "language": "Java 8",
