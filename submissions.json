@@ -4873,6 +4873,23 @@
     ],
     "timestamp": "Jul/07/2024 16:32"
   },
+  "CF55279062": {
+    "contest_id": 1175,
+    "language": "Java 8",
+    "path": "codeforces\\1175\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "From Hero to Zero",
+    "problem_url": "https://codeforces.com/contest/1175/problem/A",
+    "submission_id": "CF55279062",
+    "submission_url": "https://codeforces.com/contest/1175/submission/55279062",
+    "tags": [
+      "implementation",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Jun/07/2019 22:53"
+  },
   "CF55311852": {
     "contest_id": 25,
     "language": "Java 8",
