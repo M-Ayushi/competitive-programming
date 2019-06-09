@@ -4873,6 +4873,22 @@
     ],
     "timestamp": "Jul/07/2024 16:32"
   },
+  "CF55380459": {
+    "contest_id": 1154,
+    "language": "Java 8",
+    "path": "codeforces\\1154\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Restoring Three Numbers",
+    "problem_url": "https://codeforces.com/contest/1154/problem/A",
+    "submission_id": "CF55380459",
+    "submission_url": "https://codeforces.com/contest/1154/submission/55380459",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jun/09/2019 21:10"
+  },
   "CF55440923": {
     "contest_id": 1182,
     "language": "Java 8",
