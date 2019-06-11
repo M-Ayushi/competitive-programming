@@ -4873,6 +4873,24 @@
     ],
     "timestamp": "Jul/07/2024 16:32"
   },
+  "CF55451529": {
+    "contest_id": 1182,
+    "language": "Java 8",
+    "path": "codeforces\\1182\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Plus from Picture",
+    "problem_url": "https://codeforces.com/contest/1182/problem/B",
+    "submission_id": "CF55451529",
+    "submission_url": "https://codeforces.com/contest/1182/submission/55451529",
+    "tags": [
+      "dfs and similar",
+      "implementation",
+      "strings",
+      "*1300"
+    ],
+    "timestamp": "Jun/11/2019 15:00"
+  },
   "CF55473653": {
     "contest_id": 155,
     "language": "Java 8",
