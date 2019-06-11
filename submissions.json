@@ -4873,6 +4873,23 @@
     ],
     "timestamp": "Jul/07/2024 16:32"
   },
+  "CF55440923": {
+    "contest_id": 1182,
+    "language": "Java 8",
+    "path": "codeforces\\1182\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Filling Shapes",
+    "problem_url": "https://codeforces.com/contest/1182/problem/A",
+    "submission_id": "CF55440923",
+    "submission_url": "https://codeforces.com/contest/1182/submission/55440923",
+    "tags": [
+      "dp",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Jun/11/2019 14:18"
+  },
   "CF55451529": {
     "contest_id": 1182,
     "language": "Java 8",
