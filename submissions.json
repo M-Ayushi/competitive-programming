@@ -4873,6 +4873,22 @@
     ],
     "timestamp": "Jul/07/2024 16:32"
   },
+  "CF56568610": {
+    "contest_id": 1189,
+    "language": "Java 8",
+    "path": "codeforces\\1189\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Keanu Reeves",
+    "problem_url": "https://codeforces.com/contest/1189/problem/A",
+    "submission_id": "CF56568610",
+    "submission_url": "https://codeforces.com/contest/1189/submission/56568610",
+    "tags": [
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Jul/05/2019 16:25"
+  },
   "CF58000774": {
     "contest_id": 1199,
     "language": "Java 8",
