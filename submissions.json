@@ -4873,6 +4873,23 @@
     ],
     "timestamp": "Jul/07/2024 16:32"
   },
+  "CF58280421": {
+    "contest_id": 1201,
+    "language": "Java 8",
+    "path": "codeforces\\1201\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Important Exam",
+    "problem_url": "https://codeforces.com/contest/1201/problem/A",
+    "submission_id": "CF58280421",
+    "submission_url": "https://codeforces.com/contest/1201/submission/58280421",
+    "tags": [
+      "implementation",
+      "strings",
+      "*900"
+    ],
+    "timestamp": "Aug/04/2019 18:01"
+  },
   "CF58309807": {
     "contest_id": 1201,
     "language": "Java 8",
