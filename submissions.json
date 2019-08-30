@@ -4873,6 +4873,22 @@
     ],
     "timestamp": "Jul/07/2024 16:32"
   },
+  "CF59713664": {
+    "contest_id": 1213,
+    "language": "Java 8",
+    "path": "codeforces\\1213\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Chips Moving",
+    "problem_url": "https://codeforces.com/contest/1213/problem/A",
+    "submission_id": "CF59713664",
+    "submission_url": "https://codeforces.com/contest/1213/submission/59713664",
+    "tags": [
+      "math",
+      "*900"
+    ],
+    "timestamp": "Aug/30/2019 15:40"
+  },
   "CF60614260": {
     "contest_id": 1215,
     "language": "Java 8",
