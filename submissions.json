@@ -4873,6 +4873,24 @@
     ],
     "timestamp": "Jul/07/2024 16:32"
   },
+  "CF60614260": {
+    "contest_id": 1215,
+    "language": "Java 8",
+    "path": "codeforces\\1215\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Yellow Cards",
+    "problem_url": "https://codeforces.com/contest/1215/problem/A",
+    "submission_id": "CF60614260",
+    "submission_url": "https://codeforces.com/contest/1215/submission/60614260",
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Sep/15/2019 11:55"
+  },
   "CF60970145": {
     "contest_id": 1216,
     "language": "Java 8",
