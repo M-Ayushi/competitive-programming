@@ -4873,6 +4873,22 @@
     ],
     "timestamp": "Jul/07/2024 16:32"
   },
+  "CF61647771": {
+    "contest_id": 1234,
+    "language": "Java 8",
+    "path": "codeforces\\1234\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Equalize Prices Again",
+    "problem_url": "https://codeforces.com/contest/1234/problem/A",
+    "submission_id": "CF61647771",
+    "submission_url": "https://codeforces.com/contest/1234/submission/61647771",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Oct/01/2019 16:54"
+  },
   "CF62141725": {
     "contest_id": 1238,
     "language": "Java 8",
