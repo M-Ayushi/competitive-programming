@@ -4873,6 +4873,23 @@
     ],
     "timestamp": "Jul/07/2024 16:32"
   },
+  "CF62141725": {
+    "contest_id": 1238,
+    "language": "Java 8",
+    "path": "codeforces\\1238\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Prime Subtraction",
+    "problem_url": "https://codeforces.com/contest/1238/problem/A",
+    "submission_id": "CF62141725",
+    "submission_url": "https://codeforces.com/contest/1238/submission/62141725",
+    "tags": [
+      "math",
+      "number theory",
+      "*900"
+    ],
+    "timestamp": "Oct/08/2019 16:49"
+  },
   "CF62466594": {
     "contest_id": 1244,
     "language": "Java 8",
