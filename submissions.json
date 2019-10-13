@@ -4873,6 +4873,22 @@
     ],
     "timestamp": "Jul/07/2024 16:32"
   },
+  "CF62466594": {
+    "contest_id": 1244,
+    "language": "Java 8",
+    "path": "codeforces\\1244\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Pens and Pencils",
+    "problem_url": "https://codeforces.com/contest/1244/problem/A",
+    "submission_id": "CF62466594",
+    "submission_url": "https://codeforces.com/contest/1244/submission/62466594",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Oct/13/2019 10:12"
+  },
   "CF62479714": {
     "contest_id": 1244,
     "language": "Java 8",
