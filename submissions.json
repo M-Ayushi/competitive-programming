@@ -4873,6 +4873,24 @@
     ],
     "timestamp": "Jul/07/2024 16:32"
   },
+  "CF62995466": {
+    "contest_id": 1248,
+    "language": "Java 8",
+    "path": "codeforces\\1248\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Grow The Tree",
+    "problem_url": "https://codeforces.com/contest/1248/problem/B",
+    "submission_id": "CF62995466",
+    "submission_url": "https://codeforces.com/contest/1248/submission/62995466",
+    "tags": [
+      "greedy",
+      "math",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "Oct/20/2019 11:02"
+  },
   "CF63006535": {
     "contest_id": 1248,
     "language": "Java 8",
