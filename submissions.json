@@ -4873,6 +4873,23 @@
     ],
     "timestamp": "Jul/07/2024 16:32"
   },
+  "CF63006535": {
+    "contest_id": 1248,
+    "language": "Java 8",
+    "path": "codeforces\\1248\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Integer Points",
+    "problem_url": "https://codeforces.com/contest/1248/problem/A",
+    "submission_id": "CF63006535",
+    "submission_url": "https://codeforces.com/contest/1248/submission/63006535",
+    "tags": [
+      "geometry",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Oct/20/2019 11:56"
+  },
   "CF65867610": {
     "contest_id": 1260,
     "language": "Java 8",
