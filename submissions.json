@@ -4873,6 +4873,23 @@
     ],
     "timestamp": "Jul/07/2024 16:32"
   },
+  "CF66953119": {
+    "contest_id": 1271,
+    "language": "Java 8",
+    "path": "codeforces\\1271\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Blocks",
+    "problem_url": "https://codeforces.com/contest/1271/problem/B",
+    "submission_id": "CF66953119",
+    "submission_url": "https://codeforces.com/contest/1271/submission/66953119",
+    "tags": [
+      "greedy",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Dec/15/2019 10:03"
+  },
   "CF67337638": {
     "contest_id": 1269,
     "language": "Java 8",
