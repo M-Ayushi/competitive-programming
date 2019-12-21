@@ -4873,6 +4873,23 @@
     ],
     "timestamp": "Jul/07/2024 16:32"
   },
+  "CF67337638": {
+    "contest_id": 1269,
+    "language": "Java 8",
+    "path": "codeforces\\1269\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Equation",
+    "problem_url": "https://codeforces.com/contest/1269/problem/A",
+    "submission_id": "CF67337638",
+    "submission_url": "https://codeforces.com/contest/1269/submission/67337638",
+    "tags": [
+      "brute force",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Dec/21/2019 11:21"
+  },
   "CF67537390": {
     "contest_id": 1282,
     "language": "Java 8",
