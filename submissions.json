@@ -4873,6 +4873,22 @@
     ],
     "timestamp": "Jul/07/2024 16:32"
   },
+  "CF67625000": {
+    "contest_id": 1281,
+    "language": "Java 8",
+    "path": "codeforces\\1281\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Suffix Three",
+    "problem_url": "https://codeforces.com/contest/1281/problem/A",
+    "submission_id": "CF67625000",
+    "submission_url": "https://codeforces.com/contest/1281/submission/67625000",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Dec/25/2019 21:01"
+  },
   "CF67626377": {
     "contest_id": 1272,
     "language": "Java 8",
