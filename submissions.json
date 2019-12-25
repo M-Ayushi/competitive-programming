@@ -4873,6 +4873,25 @@
     ],
     "timestamp": "Jul/07/2024 16:32"
   },
+  "CF67626377": {
+    "contest_id": 1272,
+    "language": "Java 8",
+    "path": "codeforces\\1272\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Three Friends",
+    "problem_url": "https://codeforces.com/contest/1272/problem/A",
+    "submission_id": "CF67626377",
+    "submission_url": "https://codeforces.com/contest/1272/submission/67626377",
+    "tags": [
+      "brute force",
+      "greedy",
+      "math",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "Dec/25/2019 22:12"
+  },
   "CF67627066": {
     "contest_id": 1220,
     "language": "Java 8",
