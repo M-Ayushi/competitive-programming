@@ -4873,6 +4873,25 @@
     ],
     "timestamp": "Jul/07/2024 16:32"
   },
+  "CF67671180": {
+    "contest_id": 1271,
+    "language": "Java 8",
+    "path": "codeforces\\1271\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Shawarma Tent",
+    "problem_url": "https://codeforces.com/contest/1271/problem/C",
+    "submission_id": "CF67671180",
+    "submission_url": "https://codeforces.com/contest/1271/submission/67671180",
+    "tags": [
+      "brute force",
+      "geometry",
+      "greedy",
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Dec/26/2019 20:33"
+  },
   "CF67673312": {
     "contest_id": 580,
     "language": "Java 8",
