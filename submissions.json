@@ -4873,6 +4873,24 @@
     ],
     "timestamp": "Jul/07/2024 16:32"
   },
+  "CF67897924": {
+    "contest_id": 1270,
+    "language": "Java 8",
+    "path": "codeforces\\1270\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Card Game",
+    "problem_url": "https://codeforces.com/contest/1270/problem/A",
+    "submission_id": "CF67897924",
+    "submission_url": "https://codeforces.com/contest/1270/submission/67897924",
+    "tags": [
+      "games",
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Dec/29/2019 14:41"
+  },
   "CF67958663": {
     "contest_id": 1270,
     "language": "Java 8",
