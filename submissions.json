@@ -4873,6 +4873,24 @@
     ],
     "timestamp": "Jul/07/2024 16:32"
   },
+  "CF68055674": {
+    "contest_id": 1196,
+    "language": "Java 8",
+    "path": "codeforces\\1196\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Three Piles of Candies",
+    "problem_url": "https://codeforces.com/contest/1196/problem/A",
+    "submission_id": "CF68055674",
+    "submission_url": "https://codeforces.com/contest/1196/submission/68055674",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jan/01/2020 22:20"
+  },
   "CF68098620": {
     "contest_id": 1183,
     "language": "Java 8",
