@@ -4873,6 +4873,22 @@
     ],
     "timestamp": "Jul/07/2024 16:32"
   },
+  "CF68098620": {
+    "contest_id": 1183,
+    "language": "Java 8",
+    "path": "codeforces\\1183\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Nearest Interesting Number",
+    "problem_url": "https://codeforces.com/contest/1183/problem/A",
+    "submission_id": "CF68098620",
+    "submission_url": "https://codeforces.com/contest/1183/submission/68098620",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jan/02/2020 23:30"
+  },
   "CF68142223": {
     "contest_id": 1197,
     "language": "Java 8",
