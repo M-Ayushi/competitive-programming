@@ -4873,6 +4873,23 @@
     ],
     "timestamp": "Jul/07/2024 16:32"
   },
+  "CF68336285": {
+    "contest_id": 58,
+    "language": "Java 8",
+    "path": "codeforces\\58\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Chat room",
+    "problem_url": "https://codeforces.com/contest/58/problem/A",
+    "submission_id": "CF68336285",
+    "submission_url": "https://codeforces.com/contest/58/submission/68336285",
+    "tags": [
+      "greedy",
+      "strings",
+      "*1000"
+    ],
+    "timestamp": "Jan/06/2020 22:16"
+  },
   "CF70243655": {
     "contest_id": 1296,
     "language": "Java 8",
