@@ -4873,6 +4873,24 @@
     ],
     "timestamp": "Jul/07/2024 16:32"
   },
+  "CF71314524": {
+    "contest_id": 1307,
+    "language": "Java 8",
+    "path": "codeforces\\1307\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Cow and Friend",
+    "problem_url": "https://codeforces.com/contest/1307/problem/B",
+    "submission_id": "CF71314524",
+    "submission_url": "https://codeforces.com/contest/1307/submission/71314524",
+    "tags": [
+      "geometry",
+      "greedy",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Feb/17/2020 16:43"
+  },
   "CF71657523": {
     "contest_id": 1313,
     "language": "Java 8",
