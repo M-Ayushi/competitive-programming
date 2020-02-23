@@ -4873,6 +4873,25 @@
     ],
     "timestamp": "Jul/07/2024 16:32"
   },
+  "CF71723620": {
+    "contest_id": 1315,
+    "language": "Java 8",
+    "path": "codeforces\\1315\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Homecoming",
+    "problem_url": "https://codeforces.com/contest/1315/problem/B",
+    "submission_id": "CF71723620",
+    "submission_url": "https://codeforces.com/contest/1315/submission/71723620",
+    "tags": [
+      "binary search",
+      "dp",
+      "greedy",
+      "strings",
+      "*1300"
+    ],
+    "timestamp": "Feb/23/2020 18:10"
+  },
   "CF72430154": {
     "contest_id": 1316,
     "language": "Java 8",
