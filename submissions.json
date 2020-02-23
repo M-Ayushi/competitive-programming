@@ -4873,6 +4873,24 @@
     ],
     "timestamp": "Jul/07/2024 16:32"
   },
+  "CF71657523": {
+    "contest_id": 1313,
+    "language": "Java 8",
+    "path": "codeforces\\1313\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Fast Food Restaurant",
+    "problem_url": "https://codeforces.com/contest/1313/problem/A",
+    "submission_id": "CF71657523",
+    "submission_url": "https://codeforces.com/contest/1313/submission/71657523",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Feb/23/2020 09:19"
+  },
   "CF71706376": {
     "contest_id": 1315,
     "language": "Java 8",
