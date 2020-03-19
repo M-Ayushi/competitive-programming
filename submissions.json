@@ -4873,6 +4873,23 @@
     ],
     "timestamp": "Jul/07/2024 16:32"
   },
+  "CF73701807": {
+    "contest_id": 1326,
+    "language": "Java 8",
+    "path": "codeforces\\1326\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Maximums",
+    "problem_url": "https://codeforces.com/contest/1326/problem/B",
+    "submission_id": "CF73701807",
+    "submission_url": "https://codeforces.com/contest/1326/submission/73701807",
+    "tags": [
+      "implementation",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Mar/19/2020 15:38"
+  },
   "CF74399353": {
     "contest_id": 1328,
     "language": "Java 8",
