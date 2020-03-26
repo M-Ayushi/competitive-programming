@@ -4873,6 +4873,22 @@
     ],
     "timestamp": "Jul/07/2024 16:32"
   },
+  "CF74399353": {
+    "contest_id": 1328,
+    "language": "Java 8",
+    "path": "codeforces\\1328\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Divisibility Problem",
+    "problem_url": "https://codeforces.com/contest/1328/problem/A",
+    "submission_id": "CF74399353",
+    "submission_url": "https://codeforces.com/contest/1328/submission/74399353",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Mar/26/2020 14:37"
+  },
   "CF74422242": {
     "contest_id": 1328,
     "language": "Java 8",
