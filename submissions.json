@@ -3474,6 +3474,25 @@
     ],
     "timestamp": "Jul/07/2024 16:32"
   },
+  "CF90681640": {
+    "contest_id": 1401,
+    "language": "Java 8",
+    "path": "codeforces\\1401\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Mere Array",
+    "problem_url": "https://codeforces.com/contest/1401/problem/C",
+    "submission_id": "CF90681640",
+    "submission_url": "https://codeforces.com/contest/1401/submission/90681640",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "number theory",
+      "sortings",
+      "*1300"
+    ],
+    "timestamp": "Aug/22/2020 12:05"
+  },
   "CF90926856": {
     "contest_id": 1400,
     "language": "Java 8",
