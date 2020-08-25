@@ -3474,6 +3474,23 @@
     ],
     "timestamp": "Jul/07/2024 16:32"
   },
+  "CF90926856": {
+    "contest_id": 1400,
+    "language": "Java 8",
+    "path": "codeforces\\1400\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "String Similarity",
+    "problem_url": "https://codeforces.com/contest/1400/problem/A",
+    "submission_id": "CF90926856",
+    "submission_url": "https://codeforces.com/contest/1400/submission/90926856",
+    "tags": [
+      "constructive algorithms",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Aug/25/2020 15:56"
+  },
   "CF91374462": {
     "contest_id": 1397,
     "language": "Java 8",
