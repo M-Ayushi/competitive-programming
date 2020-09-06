@@ -3474,6 +3474,23 @@
     ],
     "timestamp": "Jul/07/2024 16:32"
   },
+  "CF92068139": {
+    "contest_id": 1405,
+    "language": "Java 8",
+    "path": "codeforces\\1405\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Array Cancellation",
+    "problem_url": "https://codeforces.com/contest/1405/problem/B",
+    "submission_id": "CF92068139",
+    "submission_url": "https://codeforces.com/contest/1405/submission/92068139",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Sep/06/2020 17:15"
+  },
   "CF92363320": {
     "contest_id": 1409,
     "language": "Java 8",
