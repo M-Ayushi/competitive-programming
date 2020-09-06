@@ -3474,6 +3474,22 @@
     ],
     "timestamp": "Jul/07/2024 16:32"
   },
+  "CF92032386": {
+    "contest_id": 1405,
+    "language": "Java 8",
+    "path": "codeforces\\1405\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Permutation Forgery",
+    "problem_url": "https://codeforces.com/contest/1405/problem/A",
+    "submission_id": "CF92032386",
+    "submission_url": "https://codeforces.com/contest/1405/submission/92032386",
+    "tags": [
+      "constructive algorithms",
+      "*800"
+    ],
+    "timestamp": "Sep/06/2020 15:46"
+  },
   "CF92068139": {
     "contest_id": 1405,
     "language": "Java 8",
