@@ -3474,6 +3474,24 @@
     ],
     "timestamp": "Jul/07/2024 16:32"
   },
+  "CF93984310": {
+    "contest_id": 1417,
+    "language": "Java 8",
+    "path": "codeforces\\1417\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Two Arrays",
+    "problem_url": "https://codeforces.com/contest/1417/problem/B",
+    "submission_id": "CF93984310",
+    "submission_url": "https://codeforces.com/contest/1417/submission/93984310",
+    "tags": [
+      "greedy",
+      "math",
+      "sortings",
+      "*1100"
+    ],
+    "timestamp": "Sep/27/2020 16:30"
+  },
   "CF94064369": {
     "contest_id": 1426,
     "language": "Java 8",
