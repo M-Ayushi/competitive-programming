@@ -3474,6 +3474,22 @@
     ],
     "timestamp": "Jul/07/2024 16:32"
   },
+  "CF94072500": {
+    "contest_id": 1426,
+    "language": "Java 8",
+    "path": "codeforces\\1426\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Symmetric Matrix",
+    "problem_url": "https://codeforces.com/contest/1426/problem/B",
+    "submission_id": "CF94072500",
+    "submission_url": "https://codeforces.com/contest/1426/submission/94072500",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Sep/28/2020 09:22"
+  },
   "CF94305542": {
     "contest_id": 1408,
     "language": "Java 8",
