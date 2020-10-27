@@ -3474,6 +3474,25 @@
     ],
     "timestamp": "Jul/07/2024 16:32"
   },
+  "CF96873752": {
+    "contest_id": 1437,
+    "language": "Java 8",
+    "path": "codeforces\\1437\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Marketing Scheme",
+    "problem_url": "https://codeforces.com/contest/1437/problem/A",
+    "submission_id": "CF96873752",
+    "submission_url": "https://codeforces.com/contest/1437/submission/96873752",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Oct/27/2020 14:46"
+  },
   "CF97310622": {
     "contest_id": 1445,
     "language": "Java 8",
