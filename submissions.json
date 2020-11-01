@@ -3474,6 +3474,23 @@
     ],
     "timestamp": "Jul/07/2024 16:32"
   },
+  "CF97310622": {
+    "contest_id": 1445,
+    "language": "Java 8",
+    "path": "codeforces\\1445\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Array Rearrangment",
+    "problem_url": "https://codeforces.com/contest/1445/problem/A",
+    "submission_id": "CF97310622",
+    "submission_url": "https://codeforces.com/contest/1445/submission/97310622",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Nov/01/2020 11:16"
+  },
   "CF97313795": {
     "contest_id": 1445,
     "language": "Java 8",
