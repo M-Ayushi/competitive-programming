@@ -1,4 +1,20 @@
 {
+  "CF102303692": {
+    "contest_id": 1468,
+    "language": "Java 8",
+    "path": "codeforces\\1468\\E.java",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Four Segments",
+    "problem_url": "https://codeforces.com/contest/1468/problem/E",
+    "submission_id": "CF102303692",
+    "submission_url": "https://codeforces.com/contest/1468/submission/102303692",
+    "tags": [
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Dec/25/2020 11:49"
+  },
   "CF102305753": {
     "contest_id": 1468,
     "language": "Java 8",
