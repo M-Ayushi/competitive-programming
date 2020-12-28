@@ -1,4 +1,21 @@
 {
+  "CF102563254": {
+    "contest_id": 1469,
+    "language": "Java 8",
+    "path": "codeforces\\1469\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Regular Bracket Sequence",
+    "problem_url": "https://codeforces.com/contest/1469/problem/A",
+    "submission_id": "CF102563254",
+    "submission_url": "https://codeforces.com/contest/1469/submission/102563254",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*1000"
+    ],
+    "timestamp": "Dec/28/2020 14:53"
+  },
   "CF102800678": {
     "contest_id": 1466,
     "language": "Java 8",
