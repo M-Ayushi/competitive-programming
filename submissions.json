@@ -1,4 +1,21 @@
 {
+  "CF105317700": {
+    "contest_id": 1475,
+    "language": "Java 8",
+    "path": "codeforces\\1475\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Odd Divisor",
+    "problem_url": "https://codeforces.com/contest/1475/problem/A",
+    "submission_id": "CF105317700",
+    "submission_url": "https://codeforces.com/contest/1475/submission/105317700",
+    "tags": [
+      "math",
+      "number theory",
+      "*900"
+    ],
+    "timestamp": "Jan/25/2021 15:06"
+  },
   "CF105327642": {
     "contest_id": 1475,
     "language": "Java 8",
