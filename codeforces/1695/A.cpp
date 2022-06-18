@@ -9,7 +9,7 @@ int main() {
 	int t;
 	cin >> t;
 	while (t--) {
-		int n, m, g = -1e9-1, a;
+		int n, m, g = -1e9, a;
 		ll x, y;
 		cin >> n >> m;
 		for (int i = 0; i < n; ++i) {
