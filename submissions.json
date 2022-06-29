@@ -551,6 +551,23 @@
     ],
     "timestamp": "Mar/18/2021 16:38"
   },
+  "CF162256047": {
+    "contest_id": 1669,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1669\\G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Fall Down",
+    "problem_url": "https://codeforces.com/contest/1669/problem/G",
+    "submission_id": "CF162256047",
+    "submission_url": "https://codeforces.com/contest/1669/submission/162256047",
+    "tags": [
+      "dfs and similar",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Jun/29/2022 16:07"
+  },
   "CF162258042": {
     "contest_id": 1669,
     "language": "C++20 (GCC 11-64)",
