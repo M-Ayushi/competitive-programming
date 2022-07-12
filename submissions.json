@@ -551,6 +551,24 @@
     ],
     "timestamp": "Mar/18/2021 16:38"
   },
+  "CF163847314": {
+    "contest_id": 1703,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1703\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Double Strings",
+    "problem_url": "https://codeforces.com/contest/1703/problem/D",
+    "submission_id": "CF163847314",
+    "submission_url": "https://codeforces.com/contest/1703/submission/163847314",
+    "tags": [
+      "brute force",
+      "data structures",
+      "strings",
+      "*1100"
+    ],
+    "timestamp": "Jul/12/2022 15:55"
+  },
   "CF163885411": {
     "contest_id": 1703,
     "language": "C++20 (GCC 11-64)",
