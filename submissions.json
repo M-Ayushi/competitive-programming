@@ -551,6 +551,23 @@
     ],
     "timestamp": "Mar/18/2021 16:38"
   },
+  "CF166933481": {
+    "contest_id": 1716,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1716\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "2-3 Moves",
+    "problem_url": "https://codeforces.com/contest/1716/problem/A",
+    "submission_id": "CF166933481",
+    "submission_url": "https://codeforces.com/contest/1716/submission/166933481",
+    "tags": [
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Aug/04/2022 15:39"
+  },
   "CF166946546": {
     "contest_id": 1716,
     "language": "C++20 (GCC 11-64)",
