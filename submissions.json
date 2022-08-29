@@ -551,6 +551,23 @@
     ],
     "timestamp": "Mar/18/2021 16:38"
   },
+  "CF170096019": {
+    "contest_id": 722,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\722\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Verse Pattern",
+    "problem_url": "https://codeforces.com/contest/722/problem/B",
+    "submission_id": "CF170096019",
+    "submission_url": "https://codeforces.com/contest/722/submission/170096019",
+    "tags": [
+      "implementation",
+      "strings",
+      "*1200"
+    ],
+    "timestamp": "Aug/29/2022 19:33"
+  },
   "CF170183576": {
     "contest_id": 1722,
     "language": "C++20 (GCC 11-64)",
