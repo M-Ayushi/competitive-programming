@@ -551,6 +551,24 @@
     ],
     "timestamp": "Mar/18/2021 16:38"
   },
+  "CF179569050": {
+    "contest_id": 1750,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1750\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Maximum Substring",
+    "problem_url": "https://codeforces.com/contest/1750/problem/B",
+    "submission_id": "CF179569050",
+    "submission_url": "https://codeforces.com/contest/1750/submission/179569050",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Nov/06/2022 14:47"
+  },
   "CF179607302": {
     "contest_id": 1750,
     "language": "C++20 (GCC 11-64)",
