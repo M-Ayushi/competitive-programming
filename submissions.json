@@ -551,6 +551,25 @@
     ],
     "timestamp": "Mar/18/2021 16:38"
   },
+  "CF192339421": {
+    "contest_id": 1786,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1786\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Letter Exchange",
+    "problem_url": "https://codeforces.com/contest/1786/problem/D",
+    "submission_id": "CF192339421",
+    "submission_url": "https://codeforces.com/contest/1786/submission/192339421",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "graphs",
+      "implementation",
+      "*1900"
+    ],
+    "timestamp": "Feb/05/2023 14:19"
+  },
   "CF194930430": {
     "contest_id": 1789,
     "language": "C++20 (GCC 11-64)",
