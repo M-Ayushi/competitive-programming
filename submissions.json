@@ -551,6 +551,23 @@
     ],
     "timestamp": "Mar/18/2021 16:38"
   },
+  "CF197080536": {
+    "contest_id": 1804,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1804\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Vaccination",
+    "problem_url": "https://codeforces.com/contest/1804/problem/B",
+    "submission_id": "CF197080536",
+    "submission_url": "https://codeforces.com/contest/1804/submission/197080536",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Mar/12/2023 14:48"
+  },
   "CF197089439": {
     "contest_id": 1804,
     "language": "C++20 (GCC 11-64)",
