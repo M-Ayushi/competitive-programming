@@ -551,6 +551,24 @@
     ],
     "timestamp": "Mar/18/2021 16:38"
   },
+  "CF197980893": {
+    "contest_id": 1806,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1806\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Sequence Master",
+    "problem_url": "https://codeforces.com/contest/1806/problem/C",
+    "submission_id": "CF197980893",
+    "submission_url": "https://codeforces.com/contest/1806/submission/197980893",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "math",
+      "*1600"
+    ],
+    "timestamp": "Mar/18/2023 15:12"
+  },
   "CF198115457": {
     "contest_id": 1807,
     "language": "C++20 (GCC 11-64)",
