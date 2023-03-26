@@ -1,4 +1,22 @@
 {
+  "CF199276795": {
+    "contest_id": 1798,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1798\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Shocking Arrangement",
+    "problem_url": "https://codeforces.com/contest/1798/problem/D",
+    "submission_id": "CF199276795",
+    "submission_url": "https://codeforces.com/contest/1798/submission/199276795",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*1600"
+    ],
+    "timestamp": "Mar/26/2023 16:24"
+  },
   "CF200135659": {
     "contest_id": 1812,
     "language": "C++20 (GCC 11-64)",
