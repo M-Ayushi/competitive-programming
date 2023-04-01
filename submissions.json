@@ -1,4 +1,22 @@
 {
+  "CF200160702": {
+    "contest_id": 1812,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1812\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Trivial Conjecture",
+    "problem_url": "https://codeforces.com/contest/1812/problem/D",
+    "submission_id": "CF200160702",
+    "submission_url": "https://codeforces.com/contest/1812/submission/200160702",
+    "tags": [
+      "*special problem",
+      "constructive algorithms",
+      "math",
+      "number theory"
+    ],
+    "timestamp": "Apr/01/2023 15:55"
+  },
   "CF200164660": {
     "contest_id": 1812,
     "language": "C++20 (GCC 11-64)",
