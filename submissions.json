@@ -1,4 +1,23 @@
 {
+  "CF200135659": {
+    "contest_id": 1812,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1812\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Are You a Robot?",
+    "problem_url": "https://codeforces.com/contest/1812/problem/A",
+    "submission_id": "CF200135659",
+    "submission_url": "https://codeforces.com/contest/1812/submission/200135659",
+    "tags": [
+      "*special problem",
+      "*special problem",
+      "*special problem",
+      "expression parsing",
+      "strings"
+    ],
+    "timestamp": "Apr/01/2023 15:35"
+  },
   "CF200160702": {
     "contest_id": 1812,
     "language": "C++20 (GCC 11-64)",
