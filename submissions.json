@@ -1,4 +1,23 @@
 {
+  "CF200444856": {
+    "contest_id": 1805,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1805\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Place for a Selfie",
+    "problem_url": "https://codeforces.com/contest/1805/problem/C",
+    "submission_id": "CF200444856",
+    "submission_url": "https://codeforces.com/contest/1805/submission/200444856",
+    "tags": [
+      "binary search",
+      "data structures",
+      "geometry",
+      "math",
+      "*1400"
+    ],
+    "timestamp": "Apr/02/2023 17:15"
+  },
   "CF200696532": {
     "contest_id": 1811,
     "language": "C++20 (GCC 11-64)",
