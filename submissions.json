@@ -1,4 +1,23 @@
 {
+  "CF200777050": {
+    "contest_id": 1811,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1811\\E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Living Sequence",
+    "problem_url": "https://codeforces.com/contest/1811/problem/E",
+    "submission_id": "CF200777050",
+    "submission_url": "https://codeforces.com/contest/1811/submission/200777050",
+    "tags": [
+      "binary search",
+      "dp",
+      "math",
+      "number theory",
+      "*1500"
+    ],
+    "timestamp": "Apr/04/2023 17:42"
+  },
   "CF200987628": {
     "contest_id": 1814,
     "language": "C++20 (GCC 11-64)",
