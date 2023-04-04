@@ -1,4 +1,22 @@
 {
+  "CF200696532": {
+    "contest_id": 1811,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1811\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Insert Digit",
+    "problem_url": "https://codeforces.com/contest/1811/problem/A",
+    "submission_id": "CF200696532",
+    "submission_url": "https://codeforces.com/contest/1811/submission/200696532",
+    "tags": [
+      "greedy",
+      "math",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Apr/04/2023 15:40"
+  },
   "CF200704716": {
     "contest_id": 1811,
     "language": "C++20 (GCC 11-64)",
