@@ -1,4 +1,21 @@
 {
+  "CF200987628": {
+    "contest_id": 1814,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1814\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Coins",
+    "problem_url": "https://codeforces.com/contest/1814/problem/A",
+    "submission_id": "CF200987628",
+    "submission_url": "https://codeforces.com/contest/1814/submission/200987628",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Apr/06/2023 15:38"
+  },
   "CF201268244": {
     "contest_id": 1797,
     "language": "C++20 (GCC 11-64)",
