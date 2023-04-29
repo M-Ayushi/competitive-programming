@@ -1,4 +1,20 @@
 {
+  "CF203970448": {
+    "contest_id": 478,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\478\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Initial Bet",
+    "problem_url": "https://codeforces.com/contest/478/problem/A",
+    "submission_id": "CF203970448",
+    "submission_url": "https://codeforces.com/contest/478/submission/203970448",
+    "tags": [
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Apr/29/2023 19:47"
+  },
   "CF203971654": {
     "contest_id": 1113,
     "language": "C++20 (GCC 11-64)",
