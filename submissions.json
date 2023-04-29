@@ -1,4 +1,20 @@
 {
+  "CF203926014": {
+    "contest_id": 1818,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1818\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Indivisible",
+    "problem_url": "https://codeforces.com/contest/1818/problem/B",
+    "submission_id": "CF203926014",
+    "submission_url": "https://codeforces.com/contest/1818/submission/203926014",
+    "tags": [
+      "constructive algorithms",
+      "*900"
+    ],
+    "timestamp": "Apr/29/2023 16:06"
+  },
   "CF203966632": {
     "contest_id": 1065,
     "language": "C++20 (GCC 11-64)",
