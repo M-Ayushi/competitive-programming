@@ -1,4 +1,20 @@
 {
+  "CF205552267": {
+    "contest_id": 1832,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1832\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "New Palindrome",
+    "problem_url": "https://codeforces.com/contest/1832/problem/A",
+    "submission_id": "CF205552267",
+    "submission_url": "https://codeforces.com/contest/1832/submission/205552267",
+    "tags": [
+      "strings",
+      "*800"
+    ],
+    "timestamp": "May/12/2023 15:39"
+  },
   "CF205569583": {
     "contest_id": 1832,
     "language": "C++20 (GCC 11-64)",
