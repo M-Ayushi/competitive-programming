@@ -1,4 +1,21 @@
 {
+  "CF207176327": {
+    "contest_id": 1837,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1837\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Grasshopper on a Line",
+    "problem_url": "https://codeforces.com/contest/1837/problem/A",
+    "submission_id": "CF207176327",
+    "submission_url": "https://codeforces.com/contest/1837/submission/207176327",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*800"
+    ],
+    "timestamp": "May/25/2023 15:48"
+  },
   "CF207180364": {
     "contest_id": 1837,
     "language": "C++20 (GCC 11-64)",
