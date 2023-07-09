@@ -1,4 +1,23 @@
 {
+  "CF213020947": {
+    "contest_id": 1418,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1418\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Mortal Kombat Tower",
+    "problem_url": "https://codeforces.com/contest/1418/problem/C",
+    "submission_id": "CF213020947",
+    "submission_url": "https://codeforces.com/contest/1418/submission/213020947",
+    "tags": [
+      "dp",
+      "graphs",
+      "greedy",
+      "shortest paths",
+      "*1500"
+    ],
+    "timestamp": "Jul/09/2023 21:04"
+  },
   "CF213299565": {
     "contest_id": 1844,
     "language": "C++20 (GCC 11-64)",
