@@ -7,7 +7,7 @@ const int M = 448; //, N = 2e5+1;
 const int N = 1e6+1;
 
 void solve() {
-	int n, q, l, r, cl = 0, cr = 0;
+	int n, q, l, r, cl = 0, cr = 0; //, z;
 	cin >> n >> q;
 	ll ans[q]; 
 	int a[n];
@@ -25,6 +25,32 @@ void solve() {
 	for (int i = 0; i < M; ++i) {
 		if (i*M > n) break;
 
+		// z = (i*M);
+		// if (cl < z) {
+		// 	for (int k = cl; k < z; ++k) {
+		// 		cur -= (1LL * count[a[k]]*count[a[k]]*a[k]);
+		// 		count[a[k]]--;
+		// 		cur += (1LL * count[a[k]]*count[a[k]]*a[k]);
+		// 	}
+		// }
+		// cl = z;
+
+		// if (cr < z) {
+		// 	for (int k = cr+1; k <= z; ++k) {
+		// 		cur -= (1LL * count[a[k]]*count[a[k]]*a[k]);
+		// 		count[a[k]]++;
+		// 		cur += (1LL * count[a[k]]*count[a[k]]*a[k]);
+		// 	}
+		// }
+		// if (cr > z) {
+		// 	for (int k = cr; k > z; --k) {
+		// 		cur -= (1LL * count[a[k]]*count[a[k]]*a[k]);
+		// 		count[a[k]]--;
+		// 		cur += (1LL * count[a[k]]*count[a[k]]*a[k]);
+		// 	}
+		// }
+		// cr = z;
+
 		sort(v[i].begin(), v[i].end());
 		for (auto j : v[i]) {
 			if (cl < j[1]) {
@@ -36,6 +62,7 @@ void solve() {
 			}
 			if (cl > j[1]) {
 				for (int k = cl-1; k >= j[1]; --k) {
+					// cout << k << " " << a[k] << " " << count[a[k]] << "\n"; 
 					cur -= (1LL * count[a[k]]*count[a[k]]*a[k]);
 					count[a[k]]++;
 					cur += (1LL * count[a[k]]*count[a[k]]*a[k]);
@@ -45,6 +72,7 @@ void solve() {
 
 			if (cr < j[0]) {
 				for (int k = cr+1; k <= j[0]; ++k) {
+					// cout << k << " " << a[k] << " " << count[a[k]] << "\n"; 
 					cur -= (1LL * count[a[k]]*count[a[k]]*a[k]);
 					count[a[k]]++;
 					cur += (1LL * count[a[k]]*count[a[k]]*a[k]);
@@ -52,6 +80,7 @@ void solve() {
 			}
 			if (cr > j[0]) {
 				for (int k = cr; k > j[0]; --k) {
+					// cout << k << " " << a[k] << " " << count[a[k]] << "\n"; 
 					cur -= (1LL * count[a[k]]*count[a[k]]*a[k]);
 					count[a[k]]--;
 					cur += (1LL * count[a[k]]*count[a[k]]*a[k]);
