@@ -25,6 +25,8 @@ void unite(int x, int y) {
 }
 
 void solve() {
+	// cout << "\n\n";
+	// iota(p.begin(), p.end(), 0);
 	int n, e, x, y, ans = 0;
 	cin >> n >> e;
 	for (int i = 0; i < n; ++i) {
@@ -51,15 +53,24 @@ void solve() {
 	}
 
 	for (int i = 0; i < n; ++i) {
+		// cout << i << "-" << getSet(i) << "\n";
 		if (getSet(i) == getSet(i+n)) {
 			cout << "-1\n";
 			return;
 		}
 		if (getSet(i) == i) {
 			ans += max(cnt[i][0], cnt[i][1]);
+			// cout << i << " " << cnt[i][0] << " " << cnt[i][1] << "\n";
 		}
 	}
 	cout << ans << "\n";
+
+	// for (int i = 0; i < n; ++i)  {
+	// 	if (getSet(i) == getSet(i+n)) {
+	// 		cout << "-1\n";
+	// 		return;
+	// 	}
+	// }
 	return;
 }
 
