@@ -1,4 +1,21 @@
 {
+  "CF215352464": {
+    "contest_id": 1850,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1850\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Word on the Paper",
+    "problem_url": "https://codeforces.com/contest/1850/problem/C",
+    "submission_id": "CF215352464",
+    "submission_url": "https://codeforces.com/contest/1850/submission/215352464",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Jul/24/2023 13:19"
+  },
   "CF215352969": {
     "contest_id": 1850,
     "language": "C++20 (GCC 11-64)",
