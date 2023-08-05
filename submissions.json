@@ -1,4 +1,21 @@
 {
+  "CF217275999": {
+    "contest_id": 1856,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1856\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Good Arrays",
+    "problem_url": "https://codeforces.com/contest/1856/problem/B",
+    "submission_id": "CF217275999",
+    "submission_url": "https://codeforces.com/contest/1856/submission/217275999",
+    "tags": [
+      "implementation",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Aug/05/2023 15:46"
+  },
   "CF217618376": {
     "contest_id": 1857,
     "language": "C++20 (GCC 11-64)",
