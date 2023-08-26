@@ -1,4 +1,25 @@
 {
+  "CF220616000": {
+    "contest_id": 1864,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1864\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Matrix Cascade",
+    "problem_url": "https://codeforces.com/contest/1864/problem/D",
+    "submission_id": "CF220616000",
+    "submission_url": "https://codeforces.com/contest/1864/submission/220616000",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "data structures",
+      "dp",
+      "greedy",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Aug/26/2023 22:37"
+  },
   "CF222222335": {
     "contest_id": 1872,
     "language": "C++20 (GCC 11-64)",
