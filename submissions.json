@@ -1,4 +1,23 @@
 {
+  "CF222337761": {
+    "contest_id": 1872,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1872\\E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Data Structures Fan",
+    "problem_url": "https://codeforces.com/contest/1872/problem/E",
+    "submission_id": "CF222337761",
+    "submission_url": "https://codeforces.com/contest/1872/submission/222337761",
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "data structures",
+      "dp",
+      "*1500"
+    ],
+    "timestamp": "Sep/07/2023 17:43"
+  },
   "CF222739824": {
     "contest_id": 1869,
     "language": "C++20 (GCC 11-64)",
