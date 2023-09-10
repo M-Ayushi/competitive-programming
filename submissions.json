@@ -1,4 +1,20 @@
 {
+  "CF222739824": {
+    "contest_id": 1869,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1869\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Make It Zero",
+    "problem_url": "https://codeforces.com/contest/1869/problem/A",
+    "submission_id": "CF222739824",
+    "submission_url": "https://codeforces.com/contest/1869/submission/222739824",
+    "tags": [
+      "constructive algorithms",
+      "*900"
+    ],
+    "timestamp": "Sep/10/2023 15:27"
+  },
   "CF222746022": {
     "contest_id": 1869,
     "language": "C++20 (GCC 11-64)",
