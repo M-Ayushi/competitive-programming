@@ -1,4 +1,21 @@
 {
+  "CF238677463": {
+    "contest_id": 1917,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1917\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Least Product",
+    "problem_url": "https://codeforces.com/contest/1917/problem/A",
+    "submission_id": "CF238677463",
+    "submission_url": "https://codeforces.com/contest/1917/submission/238677463",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Dec/24/2023 14:38"
+  },
   "CF238717977": {
     "contest_id": 1917,
     "language": "C++20 (GCC 11-64)",
