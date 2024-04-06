@@ -1,4 +1,22 @@
 {
+  "CF255263007": {
+    "contest_id": 1951,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces\\1951\\A..cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Dual Trigger",
+    "problem_url": "https://codeforces.com/contest/1951/problem/A",
+    "submission_id": "CF255263007",
+    "submission_url": "https://codeforces.com/contest/1951/submission/255263007",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Apr/06/2024 15:43"
+  },
   "CF255297167": {
     "contest_id": 1951,
     "language": "C++20 (GCC 13-64)",
