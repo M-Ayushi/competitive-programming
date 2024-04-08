@@ -1,4 +1,23 @@
 {
+  "CF255706849": {
+    "contest_id": 1955,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces\\1955\\E..cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Long Inversions",
+    "problem_url": "https://codeforces.com/contest/1955/problem/E",
+    "submission_id": "CF255706849",
+    "submission_url": "https://codeforces.com/contest/1955/submission/255706849",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "sortings",
+      "*1700"
+    ],
+    "timestamp": "Apr/08/2024 16:41"
+  },
   "CF257577470": {
     "contest_id": 1957,
     "language": "C++20 (GCC 13-64)",
