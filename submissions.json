@@ -1,4 +1,21 @@
 {
+  "CF255693630": {
+    "contest_id": 1955,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces\\1955\\D..cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Inaccurate Subsequence Search",
+    "problem_url": "https://codeforces.com/contest/1955/problem/D",
+    "submission_id": "CF255693630",
+    "submission_url": "https://codeforces.com/contest/1955/submission/255693630",
+    "tags": [
+      "data structures",
+      "two pointers",
+      "*1400"
+    ],
+    "timestamp": "Apr/08/2024 16:25"
+  },
   "CF255706849": {
     "contest_id": 1955,
     "language": "C++20 (GCC 13-64)",
