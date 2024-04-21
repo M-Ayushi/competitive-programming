@@ -1,4 +1,21 @@
 {
+  "CF257577470": {
+    "contest_id": 1957,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces\\1957\\A..cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Stickogon",
+    "problem_url": "https://codeforces.com/contest/1957/problem/A",
+    "submission_id": "CF257577470",
+    "submission_url": "https://codeforces.com/contest/1957/submission/257577470",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Apr/21/2024 15:37"
+  },
   "CF257587171": {
     "contest_id": 1957,
     "language": "C++20 (GCC 13-64)",
