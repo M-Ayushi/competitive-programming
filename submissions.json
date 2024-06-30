@@ -1,4 +1,21 @@
 {
+  "CF268170736": {
+    "contest_id": 1987,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces\\1987\\C..cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Basil's Garden",
+    "problem_url": "https://codeforces.com/contest/1987/problem/C",
+    "submission_id": "CF268170736",
+    "submission_url": "https://codeforces.com/contest/1987/submission/268170736",
+    "tags": [
+      "dp",
+      "greedy",
+      "*1200"
+    ],
+    "timestamp": "Jun/30/2024 16:21"
+  },
   "CF268388381": {
     "contest_id": 115,
     "language": "C++20 (GCC 13-64)",
