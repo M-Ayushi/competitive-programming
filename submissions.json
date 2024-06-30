@@ -1,4 +1,21 @@
 {
+  "CF268136802": {
+    "contest_id": 1987,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces\\1987\\A..cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Upload More RAM",
+    "problem_url": "https://codeforces.com/contest/1987/problem/A",
+    "submission_id": "CF268136802",
+    "submission_url": "https://codeforces.com/contest/1987/submission/268136802",
+    "tags": [
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jun/30/2024 15:36"
+  },
   "CF268150705": {
     "contest_id": 1987,
     "language": "C++20 (GCC 13-64)",
