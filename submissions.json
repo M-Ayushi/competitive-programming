@@ -1,4 +1,20 @@
 {
+  "CF268150705": {
+    "contest_id": 1987,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces\\1987\\B..cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "K-Sort",
+    "problem_url": "https://codeforces.com/contest/1987/problem/B",
+    "submission_id": "CF268150705",
+    "submission_url": "https://codeforces.com/contest/1987/submission/268150705",
+    "tags": [
+      "greedy",
+      "*1000"
+    ],
+    "timestamp": "Jun/30/2024 15:47"
+  },
   "CF268170736": {
     "contest_id": 1987,
     "language": "C++20 (GCC 13-64)",
