@@ -1,4 +1,22 @@
 {
+  "CF269242903": {
+    "contest_id": 1983,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces\\1983\\B..cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Corner Twist",
+    "problem_url": "https://codeforces.com/contest/1983/problem/B",
+    "submission_id": "CF269242903",
+    "submission_url": "https://codeforces.com/contest/1983/submission/269242903",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "math"
+    ],
+    "timestamp": "Jul/07/2024 15:54"
+  },
   "CF269261693": {
     "contest_id": 1983,
     "language": "C++20 (GCC 13-64)",
