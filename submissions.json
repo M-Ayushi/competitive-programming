@@ -1,0 +1,23 @@
+{
+  "CF269261693": {
+    "contest_id": 1983,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces\\1983\\C..cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Have Your Cake and Eat It Too",
+    "problem_url": "https://codeforces.com/contest/1983/problem/C",
+    "submission_id": "CF269261693",
+    "submission_url": "https://codeforces.com/contest/1983/submission/269261693",
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "brute force",
+      "constructive algorithms",
+      "dp",
+      "greedy",
+      "implementation"
+    ],
+    "timestamp": "Jul/07/2024 16:32"
+  }
+}
