@@ -12,16 +12,17 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-551 | [D - Prime XOR Coloring](https://codeforces.com/contest/1991/problem/D) | [C++20 (GCC 13-64)](./codeforces/1991/D..cpp) | `bitmasks` `constructive algorithms` `graphs` `math` `number theory` | Jul/28/2024 21:40 | 
-550 | [C - Absolute Zero](https://codeforces.com/contest/1991/problem/C) | [C++20 (GCC 13-64)](./codeforces/1991/C..cpp) | `constructive algorithms` `math` | Jul/28/2024 15:58 | 
-549 | [B - AND Reconstruction](https://codeforces.com/contest/1991/problem/B) | [C++20 (GCC 13-64)](./codeforces/1991/B..cpp) | `bitmasks` `constructive algorithms` `greedy` | Jul/28/2024 15:45 | 
-548 | [A - Maximize the Last Element](https://codeforces.com/contest/1991/problem/A) | [C++20 (GCC 13-64)](./codeforces/1991/A..cpp) | `greedy` `implementation` | Jul/28/2024 15:36 | 
-547 | [D - Fun](https://codeforces.com/contest/1996/problem/D) | [C++20 (GCC 13-64)](./codeforces/1996/D..cpp) | `binary search` `combinatorics` `math` `number theory` | Jul/26/2024 16:11 | 
-546 | [C - Sort](https://codeforces.com/contest/1996/problem/C) | [C++20 (GCC 13-64)](./codeforces/1996/C..cpp) | `dp` `greedy` `sortings` `strings` | Jul/26/2024 15:53 | 
-545 | [B - Scale](https://codeforces.com/contest/1996/problem/B) | [C++20 (GCC 13-64)](./codeforces/1996/B..cpp) | `implementation` | Jul/26/2024 15:40 | 
-544 | [A - Legs](https://codeforces.com/contest/1996/problem/A) | [C++20 (GCC 13-64)](./codeforces/1996/A..cpp) | `binary search` `math` `ternary search` | Jul/26/2024 15:36 | 
-543 | [B1 - Bouquet (Easy Version)](https://codeforces.com/contest/1995/problem/B1) | [C++20 (GCC 13-64)](./codeforces/1995/B1..cpp) | `binary search` `brute force` `greedy` `sortings` `two pointers` `*1100` | Jul/23/2024 17:01 | 
-542 | [C - Squaring](https://codeforces.com/contest/1995/problem/C) | [C++20 (GCC 13-64)](./codeforces/1995/C..cpp) | `brute force` `constructive algorithms` `greedy` `implementation` `math` `number theory` `*1800` | Jul/23/2024 16:47 | 
+552 | [D - Prime XOR Coloring](https://codeforces.com/contest/1991/problem/D) | [C++20 (GCC 13-64)](./codeforces/1991/D..cpp) | `bitmasks` `constructive algorithms` `graphs` `math` `number theory` | Jul/28/2024 21:40 | 
+551 | [C - Absolute Zero](https://codeforces.com/contest/1991/problem/C) | [C++20 (GCC 13-64)](./codeforces/1991/C..cpp) | `constructive algorithms` `math` | Jul/28/2024 15:58 | 
+550 | [B - AND Reconstruction](https://codeforces.com/contest/1991/problem/B) | [C++20 (GCC 13-64)](./codeforces/1991/B..cpp) | `bitmasks` `constructive algorithms` `greedy` | Jul/28/2024 15:45 | 
+549 | [A - Maximize the Last Element](https://codeforces.com/contest/1991/problem/A) | [C++20 (GCC 13-64)](./codeforces/1991/A..cpp) | `greedy` `implementation` | Jul/28/2024 15:36 | 
+548 | [D - Fun](https://codeforces.com/contest/1996/problem/D) | [C++20 (GCC 13-64)](./codeforces/1996/D..cpp) | `binary search` `combinatorics` `math` `number theory` | Jul/26/2024 16:11 | 
+547 | [C - Sort](https://codeforces.com/contest/1996/problem/C) | [C++20 (GCC 13-64)](./codeforces/1996/C..cpp) | `dp` `greedy` `sortings` `strings` | Jul/26/2024 15:53 | 
+546 | [B - Scale](https://codeforces.com/contest/1996/problem/B) | [C++20 (GCC 13-64)](./codeforces/1996/B..cpp) | `implementation` | Jul/26/2024 15:40 | 
+545 | [A - Legs](https://codeforces.com/contest/1996/problem/A) | [C++20 (GCC 13-64)](./codeforces/1996/A..cpp) | `binary search` `math` `ternary search` | Jul/26/2024 15:36 | 
+544 | [B1 - Bouquet (Easy Version)](https://codeforces.com/contest/1995/problem/B1) | [C++20 (GCC 13-64)](./codeforces/1995/B1..cpp) | `binary search` `brute force` `greedy` `sortings` `two pointers` `*1100` | Jul/23/2024 17:01 | 
+543 | [C - Squaring](https://codeforces.com/contest/1995/problem/C) | [C++20 (GCC 13-64)](./codeforces/1995/C..cpp) | `brute force` `constructive algorithms` `greedy` `implementation` `math` `number theory` `*1800` | Jul/23/2024 16:47 | 
+542 | [A - Diagonals](https://codeforces.com/contest/1995/problem/A) | [C++20 (GCC 13-64)](./codeforces/1995/A..cpp) | `brute force` `greedy` `implementation` `math` `*800` | Jul/23/2024 15:40 | 
 541 | [C - Have Your Cake and Eat It Too](https://codeforces.com/contest/1983/problem/C) | [C++20 (GCC 13-64)](./codeforces/1983/C..cpp) | `binary search` `bitmasks` `brute force` `constructive algorithms` `dp` `greedy` `implementation` | Jul/07/2024 16:32 | 
 540 | [B - Corner Twist](https://codeforces.com/contest/1983/problem/B) | [C++20 (GCC 13-64)](./codeforces/1983/B..cpp) | `constructive algorithms` `greedy` `implementation` `math` | Jul/07/2024 15:54 | 
 539 | [A - Array Divisibility](https://codeforces.com/contest/1983/problem/A) | [C++20 (GCC 13-64)](./codeforces/1983/A..cpp) | `constructive algorithms` `math` | Jul/07/2024 15:37 | 

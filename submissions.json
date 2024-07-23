@@ -6350,6 +6350,25 @@
     ],
     "timestamp": "Jul/07/2024 16:32"
   },
+  "CF272092452": {
+    "contest_id": 1995,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces\\1995\\A..cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Diagonals",
+    "problem_url": "https://codeforces.com/contest/1995/problem/A",
+    "submission_id": "CF272092452",
+    "submission_url": "https://codeforces.com/contest/1995/submission/272092452",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jul/23/2024 15:40"
+  },
   "CF272138659": {
     "contest_id": 1995,
     "language": "C++20 (GCC 13-64)",
