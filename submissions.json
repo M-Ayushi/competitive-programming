@@ -6350,6 +6350,26 @@
     ],
     "timestamp": "Jul/07/2024 16:32"
   },
+  "CF272151549": {
+    "contest_id": 1995,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces\\1995\\B1..cpp",
+    "platform": "Codeforces",
+    "problem_index": "B1",
+    "problem_name": "Bouquet (Easy Version)",
+    "problem_url": "https://codeforces.com/contest/1995/problem/B1",
+    "submission_id": "CF272151549",
+    "submission_url": "https://codeforces.com/contest/1995/submission/272151549",
+    "tags": [
+      "binary search",
+      "brute force",
+      "greedy",
+      "sortings",
+      "two pointers",
+      "*1100"
+    ],
+    "timestamp": "Jul/23/2024 17:01"
+  },
   "CF272723550": {
     "contest_id": 1996,
     "language": "C++20 (GCC 13-64)",
