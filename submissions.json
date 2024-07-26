@@ -6350,6 +6350,23 @@
     ],
     "timestamp": "Jul/07/2024 16:32"
   },
+  "CF272723550": {
+    "contest_id": 1996,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces\\1996\\A..cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Legs",
+    "problem_url": "https://codeforces.com/contest/1996/problem/A",
+    "submission_id": "CF272723550",
+    "submission_url": "https://codeforces.com/contest/1996/submission/272723550",
+    "tags": [
+      "binary search",
+      "math",
+      "ternary search"
+    ],
+    "timestamp": "Jul/26/2024 15:36"
+  },
   "CF272740145": {
     "contest_id": 1996,
     "language": "C++20 (GCC 13-64)",
