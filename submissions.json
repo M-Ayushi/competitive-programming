@@ -6350,6 +6350,21 @@
     ],
     "timestamp": "Jul/07/2024 16:32"
   },
+  "CF272740145": {
+    "contest_id": 1996,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces\\1996\\B..cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Scale",
+    "problem_url": "https://codeforces.com/contest/1996/problem/B",
+    "submission_id": "CF272740145",
+    "submission_url": "https://codeforces.com/contest/1996/submission/272740145",
+    "tags": [
+      "implementation"
+    ],
+    "timestamp": "Jul/26/2024 15:40"
+  },
   "CF272761233": {
     "contest_id": 1996,
     "language": "C++20 (GCC 13-64)",
