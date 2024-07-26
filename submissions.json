@@ -6350,6 +6350,24 @@
     ],
     "timestamp": "Jul/07/2024 16:32"
   },
+  "CF272761233": {
+    "contest_id": 1996,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces\\1996\\C..cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Sort",
+    "problem_url": "https://codeforces.com/contest/1996/problem/C",
+    "submission_id": "CF272761233",
+    "submission_url": "https://codeforces.com/contest/1996/submission/272761233",
+    "tags": [
+      "dp",
+      "greedy",
+      "sortings",
+      "strings"
+    ],
+    "timestamp": "Jul/26/2024 15:53"
+  },
   "CF272780148": {
     "contest_id": 1996,
     "language": "C++20 (GCC 13-64)",
