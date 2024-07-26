@@ -6350,6 +6350,24 @@
     ],
     "timestamp": "Jul/07/2024 16:32"
   },
+  "CF272780148": {
+    "contest_id": 1996,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces\\1996\\D..cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Fun",
+    "problem_url": "https://codeforces.com/contest/1996/problem/D",
+    "submission_id": "CF272780148",
+    "submission_url": "https://codeforces.com/contest/1996/submission/272780148",
+    "tags": [
+      "binary search",
+      "combinatorics",
+      "math",
+      "number theory"
+    ],
+    "timestamp": "Jul/26/2024 16:11"
+  },
   "CF273131663": {
     "contest_id": 1991,
     "language": "C++20 (GCC 13-64)",
