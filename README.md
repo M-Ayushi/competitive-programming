@@ -12,7 +12,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-542 | [D - Prime XOR Coloring](https://codeforces.com/contest/1991/problem/D) | [C++20 (GCC 13-64)](./codeforces/1991/D..cpp) | `bitmasks` `constructive algorithms` `graphs` `math` `number theory` | Jul/28/2024 21:40 | 
+543 | [D - Prime XOR Coloring](https://codeforces.com/contest/1991/problem/D) | [C++20 (GCC 13-64)](./codeforces/1991/D..cpp) | `bitmasks` `constructive algorithms` `graphs` `math` `number theory` | Jul/28/2024 21:40 | 
+542 | [C - Absolute Zero](https://codeforces.com/contest/1991/problem/C) | [C++20 (GCC 13-64)](./codeforces/1991/C..cpp) | `constructive algorithms` `math` | Jul/28/2024 15:58 | 
 541 | [C - Have Your Cake and Eat It Too](https://codeforces.com/contest/1983/problem/C) | [C++20 (GCC 13-64)](./codeforces/1983/C..cpp) | `binary search` `bitmasks` `brute force` `constructive algorithms` `dp` `greedy` `implementation` | Jul/07/2024 16:32 | 
 540 | [B - Corner Twist](https://codeforces.com/contest/1983/problem/B) | [C++20 (GCC 13-64)](./codeforces/1983/B..cpp) | `constructive algorithms` `greedy` `implementation` `math` | Jul/07/2024 15:54 | 
 539 | [A - Array Divisibility](https://codeforces.com/contest/1983/problem/A) | [C++20 (GCC 13-64)](./codeforces/1983/A..cpp) | `constructive algorithms` `math` | Jul/07/2024 15:37 | 

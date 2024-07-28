@@ -6350,6 +6350,22 @@
     ],
     "timestamp": "Jul/07/2024 16:32"
   },
+  "CF273154884": {
+    "contest_id": 1991,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces\\1991\\C..cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Absolute Zero",
+    "problem_url": "https://codeforces.com/contest/1991/problem/C",
+    "submission_id": "CF273154884",
+    "submission_url": "https://codeforces.com/contest/1991/submission/273154884",
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ],
+    "timestamp": "Jul/28/2024 15:58"
+  },
   "CF273244474": {
     "contest_id": 1991,
     "language": "C++20 (GCC 13-64)",
